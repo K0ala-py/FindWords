@@ -1,7 +1,7 @@
 
 # Easy Exploit Finder
 
-#### This program allows the user to enter a site name or IP to search for specific words entered within the same site.
+#### This program allows the user to enter a site or IP to search for specific words entered within the same site.
 
 
 
