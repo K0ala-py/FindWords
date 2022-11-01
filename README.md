@@ -14,12 +14,12 @@
 https://user-images.githubusercontent.com/92472219/199246753-c60caf46-2ccd-400d-8b9d-07383f2523b3.mp4
 
 
-### Syntax
+## Syntax
 
 ```bash
 python3 main.py http://IP
 ```
-## EXAMPLE
+### EXAMPLE
 
 ```bash
 python3 main.py http://nmap.scanme.org
