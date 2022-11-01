@@ -25,6 +25,6 @@ python3 main.py http://IP
 python3 main.py http://nmap.scanme.org
 ```
     
-## Pages
+## Wordlist
 
-#### The pages file is used to insert custom search words (default words in use)
+#### The wordlist file is used to insert custom search words (default words in use)
